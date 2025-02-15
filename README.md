@@ -1,6 +1,5 @@
-## Halo semua 👋
+## Hi! 👋 I'm Lucas.
 
-Perkenalkan nama saya **Lucas Chandra**.<br>
 Saya seorang Mahasiswa Teknik Informatika di Universitas Brawijaya.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/lucas-chandra-ba6059266/)ku ya.
 
