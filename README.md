@@ -1,7 +1,7 @@
 ## Hi! 👋 I'm Lucas.
 
 Saya seorang Mahasiswa Teknik Informatika di Universitas Brawijaya.<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/lucas-chandra-ba6059266/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/lucas-chandra-ba6059266/) ku ya.
 
 <!--
 Here are some ideas to get you started:
