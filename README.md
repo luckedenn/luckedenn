@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a student in Brawijaya University
 - 🌱 I’m currently learning Data and Machine Learning
 - 😄 Pronouns: Lucas
+
 -->
 ### Github Statistic
 <p align="left">
