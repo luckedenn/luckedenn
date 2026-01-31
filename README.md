@@ -1,20 +1,34 @@
-## Hi! 👋 I'm Lucas.
+## Hi 👋 I'm Lucas Chandra
 
-Saya seorang Mahasiswa Teknik Informatika di Universitas Brawijaya.<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/lucas-chandra-ba6059266/) ku ya.
+🎓 Informatics Engineering Student at Universitas Brawijaya  
+📊 Data Enthusiast | Machine Learning Learner  
+🚀 Passionate about turning data into real-world insights
 
-<!--
-Here are some ideas to get you started:
+Saya tertarik di bidang:
+- Data Science
+- Machine Learning
+- Data Analytics
+- Forecasting
+- AI
 
-- 🔭 I’m currently a student in Brawijaya University
-- 🌱 I’m currently learning Data and Machine Learning
-- 😄 Pronouns: Lucas
+📫 Let's connect:
+[LinkedIn](https://www.linkedin.com/in/lucas-chandra-ba6059266/)
 
--->
-### Github Statistic
+---
+
+### ⚡ Tech Stack
+Python • SQL • Machine Learning • Data Analysis • Deep Learning • Git
+
+---
+
+### 📈 GitHub Statistics
 <p align="left">
 <a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+---
+
+⭐ Always learning, always building.
