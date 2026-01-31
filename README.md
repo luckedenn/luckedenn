@@ -42,8 +42,9 @@ interests = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Libraries & Frameworks
+### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -53,27 +54,42 @@ interests = {
 ### Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckedenn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckedenn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luckedenn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckedenn&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckedenn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckedenn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luckedenn&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luckedenn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckedenn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 💼 Featured Projects
+
+🔜 Coming soon - currently working on exciting data science projects!
 
 ---
 
@@ -81,22 +97,29 @@ interests = {
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 **LinkedIn**: [Lucas Chandra](https://www.linkedin.com/in/lucas-chandra-ba6059266/)
-- 📧 **Email**: Feel free to reach out through LinkedIn
-- 🌐 **Portfolio**: Coming soon...
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-chandra-ba6059266/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
   
-### 💭 Quote of the Day
+### 💭 Random Dev Quote
   
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-⭐ **Always learning, always building, always growing.**
+**⭐ Always learning, always building, always growing. ⭐**
 
-<img src="https://komarev.com/ghpvc/?username=luckedenn&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=luckedenn&color=blueviolet&style=flat-square&label=Profile+Views)
+
+*Last updated: 2026*
 
 </div>
