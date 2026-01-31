@@ -23,10 +23,8 @@ Python • SQL • Machine Learning • Data Analysis • Deep Learning • Git
 
 ### 📈 GitHub Statistics
 <p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luckedenn&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckedenn&layout=compact&theme=algolia"/>
 </p>
 
 ---
